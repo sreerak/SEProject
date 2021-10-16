@@ -9,4 +9,8 @@ sonu tapse to fix bug1....
 change the item by teame mate...
 work done in git hub
 
+
 changes done in remote
+
+change in the local repositor
+
