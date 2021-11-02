@@ -14,3 +14,4 @@ changes done in remote
 
 change in the local repositor
 today change in repository by remote
+fetch in remote
